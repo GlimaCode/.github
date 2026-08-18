@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/GlimaCode/.github/blob/main/SECURITY.md
+    about: Please report security issues privately by email, not as an issue.
+  - name: Work with us
+    url: https://glimacode.com
+    about: Interested in hiring the studio? Start here.
